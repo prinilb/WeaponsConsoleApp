@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeaponsConsoleApp", "WeaponsConsoleApp\WeaponsConsoleApp.csproj", "{CAD261F5-623C-4BD8-BC24-F11928284E5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAD261F5-623C-4BD8-BC24-F11928284E5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAD261F5-623C-4BD8-BC24-F11928284E5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAD261F5-623C-4BD8-BC24-F11928284E5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAD261F5-623C-4BD8-BC24-F11928284E5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE1179A4-84BF-4040-AD63-8B8C37CA1176}
+	EndGlobalSection
+EndGlobal
