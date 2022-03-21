@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WeaponsConsoleApp
 {
-    class WeaponDamage
+    abstract class WeaponDamage
     {
         public int Damage { get; protected set; }
 
@@ -43,7 +43,7 @@ namespace WeaponsConsoleApp
             }
         }
 
-        protected virtual void CalculateDamage() { }
+        protected abstract void CalculateDamage();
 
         public WeaponDamage(int startingRoll)
         {
